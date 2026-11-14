@@ -1,2 +1,2 @@
-# spesa-scandagliata
-serve a scandafliare le offerte dei volantini di tutti i supermercati
+# spesa facile
+serve a scandagliare le offerte dei volantini di tutti i supermercati
